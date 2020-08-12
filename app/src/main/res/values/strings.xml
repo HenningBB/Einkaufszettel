@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Einkaufszettel</string>
+    <string name="hint">Was fehlt?</string>
+    <string name="btn_send">Speichern</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="sicherheitsfrage">Sind sie sicher das sie evtl. das gesamte Universum löschen wollen?</string>
+    <string name="erfolg">Veränderung erfolgreich!</string>
+</resources>
